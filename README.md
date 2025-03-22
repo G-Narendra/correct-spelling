@@ -1,6 +1,5 @@
 # **🔠 Correct Spelling - AI-Powered Spell Checker**
 
-![Spell Checker Preview](https://via.placeholder.com/1200x600)  
 *A machine learning model for intelligent spell correction using NLP techniques.*
 
 ## 🌟 **Overview**
@@ -53,8 +52,7 @@ jupyter notebook CorrectSpelling.ipynb
 2. Create a new branch (`feature-branch`)  
 3. Make changes & submit a PR  
 
-## 📜 **License**
-📝 This project is licensed under **MIT License**. See [LICENSE](LICENSE) for details.
+
 
 ## 📩 **Connect with Me**
 📧 **Email:** [narendragandikota2540@gmail.com](mailto:narendragandikota2540@gmail.com)  
